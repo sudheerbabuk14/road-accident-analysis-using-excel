@@ -21,3 +21,6 @@ dataset: Likely the raw data source.
 data analysis: May contain processed insights or calculations.    
 ## dashboard interface
 - <a href="https://github.com/sudheerbabuk14/road-accident-analysis-using-excel/blob/main/road%20accident%20dashboard%20screen%20shot.png"> dashboard screenshot</a>
+## Conclusion
+This project analyzed a comprehensive road accident dataset to identify patterns, trends, and factors contributing to traffic incidents. The analysis revealed several critical insights that can inform policymakers, urban planners, and public safety officials to improve road safety and reduce accident rates.
+## dashboard

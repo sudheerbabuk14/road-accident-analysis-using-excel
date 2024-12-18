@@ -9,4 +9,4 @@ Maximum casualties by Road Type
 ❖Distribution of total casualties by Road Surface     
 ❖ Relation between Casualties by Area/Location & by Day/Night
 ## dashboard interface
-- <a href="https://github.com/sudheerbabuk14/road-accident-analysis-using-excel/blob/main/road%20accident%20dashboard%20screen%20shot.png">screenshot</a>
+- <a href="https://github.com/sudheerbabuk14/road-accident-analysis-using-excel/blob/main/road%20accident%20dashboard%20screen%20shot.png"> dashboard screenshot</a>
